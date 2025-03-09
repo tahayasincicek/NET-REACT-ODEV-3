@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\bin\Debug\net8.0\Abstract2.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\bin\Debug\net8.0\Abstract2.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\bin\Debug\net8.0\Abstract2.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\bin\Debug\net8.0\Abstract2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\bin\Debug\net8.0\Abstract2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\refint\Abstract2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\Abstract2.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Abstract2\Abstract2\obj\Debug\net8.0\ref\Abstract2.dll

@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\bin\Debug\net8.0\Interface2.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\bin\Debug\net8.0\Interface2.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\bin\Debug\net8.0\Interface2.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\bin\Debug\net8.0\Interface2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\bin\Debug\net8.0\Interface2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\refint\Interface2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\Interface2.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\3\Interface2\Interface2\obj\Debug\net8.0\ref\Interface2.dll
